@@ -62,8 +62,7 @@ Improvement: 61.1% RMSE, 61.5% MAE, 60.8% MAPE
 stock-forecasting-comparison/
 ├── Comparative_Analysis_ARIMA_GARCH_vs_LSTM.ipynb  # Main notebook
 ├── README.md                                       # This file
-├── requirements.txt                                # Dependencies
-└── data/                                          # Optional: Data directory
+
 ```
 
 ## 🚀 Quick Start
@@ -76,8 +75,8 @@ Python 3.8+
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stock-forecasting-comparison.git
-cd stock-forecasting-comparison
+git clone https://github.com/M-Yassir/time-series-models-comparison.git
+cd time-series-models-comparison
 
 
 ### Running the Analysis

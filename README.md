@@ -113,9 +113,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Yahoo Finance for providing stock data via `yfinance`
-- Contributors to open-source libraries used in this analysis
-- Academic literature on financial time series forecasting
+### Academic Supervision
+This research was conducted under the supervision of **Mr. Abdessamad OUSAADANE** and **Mr. El Moukhtar ZEMMOURI**, whose expertise in quantitative finance and machine learning guided the methodology and analysis presented in this study.
+
+### Data & Tools
+- **Yahoo Finance**: For providing accessible and reliable financial data through their public API
+- **Open-Source Community**: For developing and maintaining essential Python libraries including:
+  - Data manipulation: pandas, numpy
+  - Machine learning: TensorFlow/Keras, scikit-learn
+  - Econometrics: statsmodels, pmdarima, arch
+  - Visualization: matplotlib, seaborn
+
+### Research Foundation
+This work builds upon established literature in time series forecasting, econometric modeling, and financial machine learning.
 
 ## 📧 Contact
 

@@ -77,7 +77,7 @@ Python 3.8+
 # Clone the repository
 git clone https://github.com/M-Yassir/time-series-models-comparison.git
 cd time-series-models-comparison
-
+```
 
 ### Running the Analysis
 ```bash

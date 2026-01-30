@@ -58,7 +58,6 @@ LSTM            $22.96       $17.43       2.62%
 ================================================================================
 ```
 
-### Key Finding
 Based on the quantitative results, the comparative analysis reveals that LSTM substantially outperforms ARIMA+GARCH across all evaluated metrics. The LSTM model achieves an RMSE of $22.96 and MAPE of 2.62%, representing a **60.8% improvement in RMSE** and **59.9% improvement in MAPE** over the ARIMA+GARCH approach. The MAE improvement of **60.4%** further confirms LSTM's superior performance.
 
 

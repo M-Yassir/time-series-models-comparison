@@ -45,9 +45,7 @@ This project presents a comprehensive comparative study between traditional econ
 
 ### Performance Metrics (Example Results)
 ```
-ARIMA+GARCH: RMSE=$58.55, MAE=$44.08, MAPE=6.53%
-LSTM:        RMSE=$22.75, MAE=$16.96, MAPE=2.56%
-Improvement: 61.1% RMSE, 61.5% MAE, 60.8% MAPE
+
 ```
 
 ### Key Findings
